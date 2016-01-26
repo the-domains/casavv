@@ -1,0 +1,28 @@
+name: Casavv
+favicon: null
+layout_spectrum: 0.056106756906956434
+typography_spectrum: 0.28743823361583054
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.220562556758523
+  lightness: 0.20011172466911376
+  saturation: 0.5575075619854033
+  rhythmicContrast: 0.16407097759656608
+purpose: []
